@@ -1,3 +1,3 @@
 # An_Clone
 This is clone of website
-Author name : Preeti nimble
+Author name : Preeti nimble(Web Development)
