@@ -1,4 +1,4 @@
 # An_Clone
 This is clone of website
-<br>
-Author name : Preeti nimble(Web Development)
+<p>This is copy of amazon clone</p>
+Author name : Preeti nimble(Web Developer)
